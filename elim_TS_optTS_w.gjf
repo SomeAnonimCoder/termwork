@@ -1,0 +1,5 @@
+%nprocshared=24
+%oldchk=elim_ts_pr_w.chk
+%chk=elim_ts_optts_w.chk
+# opt=(TS,ReadFC,noeigentest,nofreeze) guess=read geom=allcheck freq PBE1PBE/def2svp empiricaldispersion=gd3bj 
+
